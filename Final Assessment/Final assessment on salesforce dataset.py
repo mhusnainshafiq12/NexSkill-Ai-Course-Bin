@@ -184,4 +184,4 @@ print("Expected Change is :",round(Change,2),"%")
 # According to my prediction,
 # the market is expected to move upward, 
 # so investors may consider investing in this company
-# based on the predicted growth .
+# based on the predicted growth.

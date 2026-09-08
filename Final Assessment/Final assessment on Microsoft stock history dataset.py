@@ -181,4 +181,4 @@ print("Average Prediction is :",Average_prediction)
 Change=((Average_prediction-Current_Price)/Current_Price)*100
 print("Expected Change is :",round(Change,2),"%")
 
-# According to prediction this market is in the loss .
+# According to prediction this market is in the loss.
