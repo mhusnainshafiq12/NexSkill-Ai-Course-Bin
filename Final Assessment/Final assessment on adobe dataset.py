@@ -25,7 +25,7 @@ plt.ylabel("Close")
 plt.show()
 
 plt.figure(figsize=(8,6))
-sns.heatmap(df[["Open","High","Low","Close","Adj Close","Volume"]].corr(),annot=True,cmap="coolwarm")
+sns.heatmap(df[["Open","High","Low","Close","Volume"]].corr(),annot=True,cmap="coolwarm")
 plt.title("Relation between Stock Features")
 plt.show()
 
